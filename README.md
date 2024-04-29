@@ -20,3 +20,4 @@ This module implements pseudo-random number generators for various distributions
 6) Append the random selected character, digits and special characters into password list.
 7) Now shuffle the password list to increase the password strength.
 8) Now using loop store convert the password list into string and print.
+![Output](https://github.com/gauraishwarya/Project-Images/blob/main/Password%20Generator%20output.jpg.png)
