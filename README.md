@@ -10,7 +10,7 @@
 ##### II) random – 
 This module implements pseudo-random number generators for various distributions.
 ## Tech Stack Used:-
-![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Power%20Bi%20icon.png?raw=true)
+![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/python%20logo.png)
 ## Code Implementation:-
 1) Import modules string and random.
 2) Create lists of Characters, Digits and Special characters using string module.
