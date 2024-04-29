@@ -3,7 +3,7 @@
 ## Objective:-
 - ##### To create a random password generator using Python. 
 ## Modules needed:-
-######string – For accessing string constants. The ones we would need are –
+###### string – For accessing string constants. The ones we would need are –
 ##### 1) Dashboard creation: Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various level of granularity.
 ##### 2) Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales stratigies through visualization and charts.
 ##### 3) Sales Forecasting: Leverage history data and apply time series analysis to generate forecasts for next 15 days.
