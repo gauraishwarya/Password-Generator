@@ -1,5 +1,5 @@
 # Dashboard
-![image](https://github.com/gauraishwarya/Project-Images/blob/main/Superstore%20dashboard.png)
+![image](https://github.com/gauraishwarya/Project-Images/blob/main/Password%20Generator.jpg)
 ## Objective:-
 - ##### To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 ## Description:-
