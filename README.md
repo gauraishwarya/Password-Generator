@@ -13,9 +13,10 @@ This module implements pseudo-random number generators for various distributions
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Power%20Bi%20icon.png?raw=true)
 ## Code Implementation:-
 1) Import modules string and random.
-2) Create lists of Characters,Digits and Special characters using string module.
+2) Create lists of Characters, Digits and Special characters using string module.
 3) Create empty list to store the password.
 4) Allow user to enter the number if characters, digits and special characters they want.
-5) Append the input given by user into password list.
-6) Now shuffle the password list to increase the password strength.
-7) Now using loop store convert the password list into string and print.
+5) Select random character, digits and special characters from list.
+6) Append the random selected character, digits and special characters into password list.
+7) Now shuffle the password list to increase the password strength.
+8) Now using loop store convert the password list into string and print.
