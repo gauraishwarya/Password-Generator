@@ -3,11 +3,10 @@
 ## Objective:-
 - ##### To create a random password generator using Python. 
 ## Modules needed:-
-string – For accessing string constants. The ones we would need are –
-##### 1) Dashboard creation: Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various level of granularity.
-##### 2) Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales stratigies through visualization and charts.
-##### 3) Sales Forecasting: Leverage history data and apply time series analysis to generate forecasts for next 15 days.
-##### 4) Actionable Insights and Recommendations: Rnd goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goal for growth, efficiency, and customer satisfaction.
+##### I) string – For accessing string constants. The ones we would need are –
+1) string.ascii_letters:  ASCII is a system that is used to represent characters digitally, every ASCII character has its own unique code. string.ascii_letters is a string constant which contains all the letters in ASCII ranging from A to Z and a to z. Its value is non-locale dependent and it is just a concatenation of ascii_uppercase and ascii_lowercase. Thus it provides us the whole letter set as a string that can be used as desired.
+##### 2) string.digits:  This is a pre-initialized string that contains all the digits in the Arabic numeral system i.e. 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. It should be kept in mind that even though these are digits, the type is still a string constant, and all digits are concatenated like this – “0123456789”. If we want to access specific numbers then we can do so using slicing.
+##### 3) string.punctuation: Apart from letters and digits, python also provides us all the special characters in a pre-initialized string constant. These include various kinds of braces, logical operators, comparison operators, arithmetical operators as well as punctuation marks like commas, inverted commas, periods, exclamations marks, and question marks. The whole string is – !”#$%&'()*+, -./:;<=>?@[\]^_`{|}~
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Power%20Bi%20icon.png?raw=true)
 ## Steps:-
