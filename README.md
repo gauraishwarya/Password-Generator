@@ -1,7 +1,7 @@
 # Dashboard
 ![image](https://github.com/gauraishwarya/Project-Images/blob/main/Password%20Generator.jpg)
 ## Objective:-
-- ##### To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+- ##### To create a random password generator using Python. 
 ## Description:-
 ##### 1) Dashboard creation: Identify the KPIs, design an intutive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various level of granularity.
 ##### 2) Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales stratigies through visualization and charts.
