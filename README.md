@@ -16,7 +16,7 @@ This module implements pseudo-random number generators for various distributions
 2) Create lists of Characters, Digits and Special characters using string module.
 3) Create empty list to store the password.
 4) Allow user to enter the number if characters, digits and special characters they want.
-5) Select random character, digits and special characters from list using random module.
+5) Select random character, digits and special characters from list using random.choice().
 6) Append the random selected character, digits and special characters into password list.
 7) Now shuffle the password list to increase the password strength.
 8) Now using loop store convert the password list into string and print.
